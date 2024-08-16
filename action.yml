@@ -1,5 +1,5 @@
 name: 'SSH to Actions'
-author: 'rdp-studio'
+author: 'rdp-studio', 'ARMGI9854WXZ59'
 description: 'Connect to GitHub Actions VM via SSH for interactive debugging'
 inputs:
   mode:
